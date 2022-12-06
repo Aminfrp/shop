@@ -1,0 +1,12 @@
+.navLink:after {
+  display: block;
+  content: '';
+  border-bottom: solid 2px #678CF6;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+  padding: 0.25rem 0;
+}
+
+.activeLink:after {
+  transform: scaleX(1);
+}
