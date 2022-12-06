@@ -1,4 +1,11 @@
 # Shop App
+
+created with: 
+ - Next.js
+ - Tailwind
+ - Material UI
+ - Firebase
+
 ## Getting Started
 
 First, run the development server:
