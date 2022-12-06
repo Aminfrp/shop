@@ -6,9 +6,11 @@ created with:
  - Material UI
  - Firebase
 
-### Description
+** Description **
 
 This is onlin shop website with next.js that has nice user interface and has nice SEO frindly.
+
+![shop](./public/favicon.ico)
 
 
 ## Getting Started
