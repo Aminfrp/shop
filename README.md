@@ -1,7 +1,7 @@
 # Shop App
 **Description**
 
-This is onlin shop website with next.js that has nice user interface and has nice SEO frindly.
+This is onlin shop website with ==Next.js== that has nice user interface and has nice SEO frindly.
 
 ![shop](./public/favicon.ico)
 
@@ -20,3 +20,5 @@ npm run dev
 # or
 yarn dev
 ```
+created at ==12/6/2022== or ==15/9/1401==
+---
